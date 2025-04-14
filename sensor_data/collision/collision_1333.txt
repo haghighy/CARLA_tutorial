@@ -1,0 +1,3 @@
+Frame: 1333
+Normal Impulse: 53.2257080078125, -3.0067617893218994, -0.7277987599372864
+Other Actor: vehicle.audi.a2

@@ -1,0 +1,3 @@
+Frame: 4400
+Normal Impulse: -1.0900803804397583, 40.09983825683594, -0.040851932018995285
+Other Actor: static.wall

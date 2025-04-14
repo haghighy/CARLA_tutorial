@@ -1,5 +1,8 @@
 import time
+
+import time
 import sys
+import os
 
 sys.path.append(
     'E:\\neg\\term2-Arshad\\machine-learning\\CARLA_project\\CARLA_0.9.11\\WindowsNoEditor\\PythonAPI\\carla\\dist\\carla-0.9.11-py%d.%d-win-amd64.egg' % (sys.version_info.major,
