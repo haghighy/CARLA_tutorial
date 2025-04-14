@@ -1,9 +1,13 @@
 import time
+import sys
 
+sys.path.append(
+    'E:\\neg\\term2-Arshad\\machine-learning\\CARLA_project\\CARLA_0.9.11\\WindowsNoEditor\\PythonAPI\\carla\\dist\\carla-0.9.11-py%d.%d-win-amd64.egg' % (sys.version_info.major,
+                                                             sys.version_info.minor))
 import carla
 
-from src.simulator_handler import SimulatorHandler
-from src.utils.vehicle_command import VehicleCommand
+from simulator_handler import SimulatorHandler
+from utils.vehicle_command import VehicleCommand
 
 
 class SimulationHyperParameters:
